@@ -28,12 +28,8 @@ Our community here is dedicated to fostering discussions among like-minded users
 
 ---
 
----
-
----
-
-| [![cc-by](https://forthebadge.com/images/badges/cc-by.png)](https://creativecommons.org/licenses/by/4.0/) | [![gnu-gpl](https://img.shields.io/badge/LICENSE-GPLv3-red?style=for-the-badge&labelColor=9b9b9b&color=d0021b)](https://www.gnu.org/licenses/gpl-3.0.html) | [![fsf](img/fsf-member.png)](https://my.fsf.org/join?referrer=6725885) |
-| :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| [![cc-by](https://forthebadge.com/images/badges/cc-by.png)](https://creativecommons.org/licenses/by/4.0/) | [![gnu-gpl](https://img.shields.io/badge/LICENSE-GPLv3-red?style=for-the-badge&labelColor=9b9b9b&color=d0021b)](https://www.gnu.org/licenses/gpl-3.0.html) | [![fsf](https://netwk.pro/img/fsf-member.png)](https://my.fsf.org/join?referrer=6725885) |
+| :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 
 &nbsp;
 
