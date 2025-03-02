@@ -1,18 +1,20 @@
-<!--
-    ✏️ Optional: Customize the content below to let your community know what you intend to use Discussions for.
--->
-## 👋 Welcome to NetEng-Pro Discussions!
+# 👋 Welcome to NetEng-Pro Discussions
 
-  Our community here is dedicated to fostering discussions among like-minded users who are passionate about FOSS and open-source apps. Here, you can share and collaborate on topics such as reporting abandoned projects, addressing common issues encountered, and expressing community preferences in the app ecosystem.
+Our community here is dedicated to fostering discussions among like-minded users who are passionate about FOSS and open-source apps. Here, you can share and collaborate on topics such as reporting abandoned projects, addressing common issues encountered, and expressing community preferences in the app ecosystem.
 
-We hope that you:
-  * Share ideas.
-  * Ask questions you’re wondering about.
-  * Engage with other community members.
-  * Welcome others and be open-minded. Our community is inclusive and free-thinking 💪.
-  * ...and much more!
+<!-- markdownlint-disable MD001 MD026 -->
 
-  >➡️ It's essential to note that while technical discussions and common issue debugging are encouraged, this platform ***is not meant for direct support.*** For support-related queries, please create an issue in the respective app/project repository, or contact the app developer directly.
+### We hope that you:
+
+<!-- markdownlint-enable MD001 MD026 -->
+
+- **Share ideas.**
+- **Ask questions you’re wondering about.**
+- **Engage with other community members.**
+- **Welcome others and be open-minded. Our community is inclusive and free-thinking 💪.**
+- **...and much more!**
+
+  > ➡️ It's essential to note that while technical discussions and common issue debugging are encouraged, this platform **_is not meant for direct support._** For support-related queries, please create an issue in the respective app/project repository, or contact the app developer directly.
 
   📢 If there's an app missing from our lists (or an app listed that shouldn't be), a noteworthy FOSS app discovery, or a workaround for a common issue that deserves attention, let's discuss it!
 
@@ -25,4 +27,30 @@ We hope that you:
 -->
 
 ---
-**[Network Engineering Pro](https://www.neteng.pro/)** &copy; 2024 by **[Scott Lopez](mailto:website@neteng.pro)** is licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)**
+
+---
+
+---
+
+| [![cc-by](https://forthebadge.com/images/badges/cc-by.png)](https://creativecommons.org/licenses/by/4.0/) | [![gnu-gpl](https://img.shields.io/badge/LICENSE-GPLv3-red?style=for-the-badge&labelColor=9b9b9b&color=d0021b)](https://www.gnu.org/licenses/gpl-3.0.html) | [![fsf](img/fsf-member.png)](https://my.fsf.org/join?referrer=6725885) |
+| :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+
+&nbsp;
+
+<span style="font-size: 12px; font-weight: bold; text-align: center;">
+
+[Terms and Conditions](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/TERMS.md) &nbsp; | &nbsp; [Copyright and Licensing](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/LICENSE.md) &nbsp; | &nbsp; [Privacy Policy](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/PRIVACY.md)
+
+</span>
+
+&nbsp;
+
+<code style="background: none; border: none; border-radius: 0; font-size: 12px; height: 50vh; outline: none; resize: none; text-align: center; width: 100%;">
+
+**[Network Pro Strategies](https://netwk.pro/) (Network Pro)**  
+Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
+
+Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  
+either version 3 of the License, or (at your option) any later version.
+
+</code>
