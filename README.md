@@ -1,4 +1,4 @@
-# 👋 Welcome to NetEng-Pro Discussions
+# 👋 Welcome to Network Pro Discussions
 
 Our community here is dedicated to fostering discussions among like-minded users who are passionate about FOSS and open-source apps. Here, you can share and collaborate on topics such as reporting abandoned projects, addressing common issues encountered, and expressing community preferences in the app ecosystem.
 
